@@ -1,0 +1,8 @@
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\bin\Debug\DrivingQuiz.exe.config
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\bin\Debug\DrivingQuiz.exe
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\bin\Debug\DrivingQuiz.pdb
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\obj\Debug\DrivingQuiz.csproj.AssemblyReference.cache
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\obj\Debug\DrivingQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\obj\Debug\DrivingQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\obj\Debug\DrivingQuiz.exe
+C:\Users\Olesia\source\repos\DrivingQuiz\DrivingQuiz\obj\Debug\DrivingQuiz.pdb
